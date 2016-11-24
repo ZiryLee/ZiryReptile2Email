@@ -1,0 +1,2 @@
+# ZiryReptile2Email
+这是一个用JAVA开发的Email爬虫小软件，爬取网页上的Email可以导出txt
